@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Spy_object</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>781bcf16-e0fb-4767-a8fa-3932f5a3cac8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9a9212aa-e374-4abb-b43c-1660de727c48</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>473e25ed-7944-4817-a091-b3ad6613d25a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description></description>
+      <id>9a9212aa-e374-4abb-b43c-1660de727c48</id>
+      <masked>true</masked>
+      <name>usernamee1</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description></description>
+      <id>473e25ed-7944-4817-a091-b3ad6613d25a</id>
+      <masked>true</masked>
+      <name>passwordd2</name>
+   </variable>
+</TestCaseEntity>
